@@ -1,4 +1,3 @@
-Mars! Test text
-This is a new change
-Another edit
+Test text
+Mars
 Yet another change
